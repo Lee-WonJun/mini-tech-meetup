@@ -22,3 +22,4 @@ Mini-Tech-Meetup 은 각자 원하는 주제로 매주 진행하는 세미나 �
 
 ## 참가자
  - [Lee-WonJun](https://github.com/Lee-WonJun)
+ - [JHyunB](https://github.com/JHyunB)
